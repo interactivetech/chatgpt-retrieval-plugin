@@ -2544,7 +2544,7 @@ files = [
 
 [[package]]
 name = "psycopg2"
-version = "2.9.6"
+version = "^2.9.6"
 description = "psycopg2 - Python-PostgreSQL Database Adapter"
 optional = false
 python-versions = ">=3.6"
